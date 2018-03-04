@@ -10,7 +10,7 @@ https://github.com/menjaw/Python_Korean_Conflict/blob/master/Korean%20Conflict.i
 
 
 #### QUESTION 1: How many soldiers entered from a marine corps branch?
-              - ANSWER: 4509 soldiers entered from a Marine Corps
+    - ANSWER: 4509 soldiers entered from a Marine Corps
 | BRANCH    	  |               |
 | ------------- |:-------------:| 
 | AIR FORCE 	  | 		1552 	    | 
@@ -20,7 +20,7 @@ https://github.com/menjaw/Python_Korean_Conflict/blob/master/Korean%20Conflict.i
 
 
 #### QUESTION 2: Which enrollment was the most common?
-- ANSWER: The most common enrollment was ACTIVE - REGULAR with 23973
+    - ANSWER: The most common enrollment was ACTIVE - REGULAR with 23973
 | ENROLLMENT    			      |               |
 | ------------------------- |:-------------:| 
 | ACTIVE - GUARD/RESERVE   	| 		5089 	    | 
@@ -29,7 +29,7 @@ https://github.com/menjaw/Python_Korean_Conflict/blob/master/Korean%20Conflict.i
 
 
 #### QUESTION 3: Was there an ethnicity majority throughout the war - If so, which?
-- ANSWER: Yes there is an ethnicity majority: White (58.678)
+    - ANSWER: Yes there is an ethnicity majority: White (58.678)
 | Ethnicity     			      |               |
 | ------------------------- |:-------------:| 
 | ETHNICITY (White)       	| 		29405	    | 
@@ -38,7 +38,7 @@ https://github.com/menjaw/Python_Korean_Conflict/blob/master/Korean%20Conflict.i
 
 
 #### QUESTION 4: Which division had the most casualties?
-- ANSWER: 1 MAR DIV had most casualties
+    - ANSWER: 1 MAR DIV had most casualties
 | Casualties     			         |DIED OF WOUNDS | KILLED IN ACTION |
 | -----------------------------|:-------------:|:----------------:|
 | 1 MAR DIV                    | 		18         | 168              |
@@ -48,7 +48,7 @@ https://github.com/menjaw/Python_Korean_Conflict/blob/master/Korean%20Conflict.i
 
 
 #### QUESTION 5: Which Home state suffered the most losses?
-- ANSWER: California with 2582 losses
+    - ANSWER: California with 2582 losses
 | Losses     			          |               |
 | ------------------------- |:-------------:| 
 | California              	| 		2582	    | 
